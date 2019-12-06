@@ -1,0 +1,36 @@
+INSERT INTO pruebagood.events_organizer (name,phone,website,email,created_at,updated_at) VALUES 
+('Mujeres Humanistas 2019',' 1131','','dpito@unicauca.edu.co','2019-04-10 22:52:45.992','2019-04-10 22:52:45.992')
+,('Vicerrectoría Cultura Bienestar','8 209800 ext. 1131','http://vicecultura.unicauca.edu.co','vcb@unicauca.edu.co','2019-04-30 20:43:12.072','2019-04-30 20:43:12.072')
+,('PermaneSer','8 209800 ext. 1131','http://vicecultura.unicauca.edu.co','permaneser@unicauca.edu.co','2019-04-30 20:43:42.906','2019-04-30 20:43:42.906')
+,('Oficina Emprendimiento - FACA','8219900','','','2019-04-30 20:46:08.110','2019-04-30 20:46:08.110')
+,('Div Gestión Recreación y Deporte','8209800 ext. 2500','http://vicecultura.unicauca.edu.co/#/vicecultura/gestion-del-deporte','recredeportes@unicauca.edu.co','2019-04-30 21:32:43.243','2019-04-30 21:32:43.243')
+,('Div. Salud Integral','8209800 ext. 2511','http://vicecultura.unicauca.edu.co/#/vicecultura/gestion-salud-desarrollo-humano','salud@unicauca.edu.co','2019-04-30 21:33:37.143','2019-04-30 21:33:37.143')
+,('Div. Gestión de la Cultura','8209900 ext. 1128','http://vicecultura.unicauca.edu.co/#/vicecultura/gestion-de-la-cultura','divpatrimonio@unicauca.edu.co','2019-04-30 21:41:48.784','2019-04-30 21:41:48.784')
+,('P. Actividad Física Formativa','8209800 ext 2359','','actividad-fisica@unicauca.edu.co','2019-05-07 17:02:45.823','2019-05-07 17:02:45.823')
+,('Lic. Educación física Recreación','8209800  ext. 2359','','pfidere@unicauca.edu.co','2019-05-07 17:04:07.613','2019-05-07 17:04:07.613')
+,('Departamento de Fisioterapia','8234118 ext. 1114','','fisioterapia@unicauca.edu.co','2019-05-07 17:05:01.398','2019-05-07 17:05:01.398')
+;
+INSERT INTO pruebagood.events_organizer (name,phone,website,email,created_at,updated_at) VALUES 
+('División Gestión Talento Humano','8209900 ext. 1155','','rhumanos@unicauca.edu.co','2019-05-07 17:05:50.324','2019-05-07 17:05:50.324')
+,('Programa de Comunidades Diversas','8 209800 ext. 1131','','','2019-05-09 19:33:09.966','2019-05-09 19:33:09.966')
+,('Centro de Memorias Étnicas','8209800, ext. 2320','','','2019-05-09 19:34:13.869','2019-05-09 19:34:13.869')
+,(' Fundación Universitaria Popayán','8320226','https://fup.edu.co/','','2019-05-13 13:33:51.766','2019-05-13 13:33:51.767')
+,('Crp Universitaria Autónoma Cauca','8213000','https://www.uniautonoma.edu.co/','','2019-05-13 13:34:51.409','2019-05-13 13:34:51.409')
+,('Colegio Mayor del Cauca','8241109','https://unimayor.edu.co/web/','','2019-05-13 13:35:17.067','2019-05-13 13:35:17.067')
+,('Red de Museos','8209800, Ext. 2640','','','2019-05-28 22:10:04.335','2019-05-28 22:10:04.335')
+,('Programa de Comunidades Diversas','8 209800 ext. 1131','','','2019-06-05 17:59:03.710','2019-06-05 17:59:03.710')
+,('Programa de Género','8 209800 ext. 1131','','','2019-06-05 17:59:33.263','2019-06-05 17:59:33.263')
+,('Regionalización Sede Norte','8292056','','','2019-06-18 14:52:25.944','2019-06-18 14:52:25.944')
+;
+INSERT INTO pruebagood.events_organizer (name,phone,website,email,created_at,updated_at) VALUES 
+('Dialogos Interculturales','8209900','','','2019-06-20 15:04:25.711','2019-06-20 15:04:25.711')
+,('G Inv. Salud y Motricidad Humana','8209900','','','2019-06-21 15:14:55.993','2019-06-21 15:14:55.993')
+,('Semillero SISAMO','8209900','','','2019-06-21 15:15:09.082','2019-06-21 15:15:09.082')
+,('Depto Educación Física R y D','8209900','','','2019-07-03 19:45:16.775','2019-07-03 19:45:16.775')
+,('Faculta de Artes','8209940','','','2019-07-12 00:16:20.792','2019-07-12 00:16:20.792')
+,('Promoción Cultura Bienestar FIET','8209800','','','2019-07-16 02:26:29.764','2019-07-16 02:26:29.764')
+,('Departamento Música','8209900 ','','','2019-07-25 15:47:02.787','2019-07-25 15:47:02.787')
+,('Facultad CCEA','8209800','','','2019-09-18 13:09:35.684','2019-09-18 13:09:35.684')
+,('ICANH','(1) 4440544','','','2019-10-15 15:32:06.315','2019-10-15 15:32:06.315')
+,('Div Gestión del Talento Humano','8209900 ext. 1155','','','2019-11-19 19:32:48.165','2019-11-19 19:32:48.165')
+;

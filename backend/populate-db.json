@@ -1,0 +1,21 @@
+[
+{
+  "model": "news.post",
+  "pk": 1,
+  "fields": {
+    "name": "Home Slider"
+  }
+},
+{
+  "model": "sliders.slider",
+  "pk": 1,
+  "fields": {
+    "post": 1,
+    "position": "HOME",
+    "description": "Slider principal",
+    "active": true,
+    "created_at": "2019-03-26T23:22:58.857Z",
+    "updated_at": "2019-03-26T23:22:58.857Z"
+  }
+}
+]
