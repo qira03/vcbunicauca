@@ -27,7 +27,7 @@ class Category(models.Model):
         default="slug"
     )
     #: descripción de la categoría. Máximo 140 caracteres.
-    description = models.CharField(max_length=140)
+    description = models.CharField(max_length=6000)
     #: imágen representativa de la categoría.
     image = models.ImageField(upload_to="images/")
     #: fecha y hora de creación. Automático.
@@ -57,7 +57,7 @@ class RelatedLink(models.Model):
     """Enlaces relacionados a sitios de interés."""
 
     #: nombre del enlace relacionado. Máximo 120 caracteres.
-    name = models.CharField(max_length=120)
+    name = models.CharField(max_length=254)
     #: URL del enlace relacionado. Máximo 250 caracteres.
     link = models.URLField(max_length=250)
     #: fecha y hora de creación. Automático.
@@ -153,7 +153,7 @@ class Event(Post):
     #: fecha y hora de cierre del evento.
     finish_datetime = models.DateTimeField()
     #: resumen corto del evento. Opcional. Máximo 140 caracteres.
-    abstract = models.CharField(max_length=140, null=True, blank=True)
+    abstract = models.CharField(max_length=6000, null=True, blank=True)
     #: descripción completa del evento.
     description = models.TextField()
     #: costo de entrada al evento. Valor predefinido 0 (evento gratuito).

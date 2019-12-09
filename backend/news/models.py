@@ -19,7 +19,7 @@ class Post(models.Model):
     """
 
     #: nombre del post. Máximo 64 caracteres.
-    name = models.CharField(max_length=64)
+    name = models.CharField(max_length=254)
 
     class Meta:
         verbose_name = "post"
